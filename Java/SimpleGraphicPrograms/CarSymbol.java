@@ -8,7 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: CarSymbol
  * 
- * Draw a Car Symbol.
+ * Program draws the Mercedes Logo.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

@@ -8,7 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: Smiley
  * 
- * Draw a simple GraphicsProgram that uses GRect, GOval, GLine and also GArc.
+ * Program draws a simple Smiley that uses GRect, GOval, GLine and also GArc.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

@@ -8,7 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: YinYang
  * 
- * Draw the YinYang Symbol.
+ * Program draws the YinYang Symbol.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

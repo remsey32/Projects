@@ -8,7 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: TrafficLight
  * 
- * Draw a traffic light using a rect and ovals.
+ * Program draws a traffic light using a rect and ovals.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

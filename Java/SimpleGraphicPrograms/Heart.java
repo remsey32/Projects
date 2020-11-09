@@ -8,7 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: Heart
  * 
- * Draw a heart shape using two ovals and a polygon.
+ * Program draws a heart shape using two ovals and a polygon.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

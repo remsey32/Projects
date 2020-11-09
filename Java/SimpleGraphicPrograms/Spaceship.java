@@ -7,7 +7,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: SpaceShip
  * 
- * Draw a space ship using a polygon.
+ * Program draws a spaceship using a polygon.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

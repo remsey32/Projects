@@ -7,7 +7,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: Skyscraper
  * 
- * Draw a skyscraper using a rects.
+ * Program draws a skyscraper using a rects.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

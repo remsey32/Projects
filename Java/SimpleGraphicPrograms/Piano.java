@@ -7,7 +7,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: Piano
  * 
- * Draw the keys of a piano.
+ * Program draws the keys of a piano.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

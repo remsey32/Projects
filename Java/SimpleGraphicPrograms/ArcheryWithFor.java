@@ -7,7 +7,7 @@ import acm.program.GraphicsProgram;
  * 
  * Agrar: 1. Archery
  * 
- * Draw a target using three ovals.
+ * Program draws a target using three ovals.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy
