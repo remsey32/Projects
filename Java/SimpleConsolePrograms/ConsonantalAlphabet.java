@@ -1,7 +1,7 @@
 import acm.program.ConsoleProgram;
 
 /**
- * Beliebigen Satz (String) in eine Konsonantenschrift übersetzen.
+ * Beliebiger Satz (String) wird in Konsonantenschrift übersetzen.
  * 
  * @author Sven Remy
  */

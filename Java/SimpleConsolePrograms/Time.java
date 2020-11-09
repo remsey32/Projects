@@ -5,9 +5,7 @@ import acm.program.ConsoleProgram;
  * 
  * Console: Time
  * 
- * A Console program that prints the time in hour, minutes and seconds. For
- * testing purposes you should try the following test entries: 5, 61, 85, 3600,
- * 3601.
+ * A Console program that prints the time in hour, minutes and seconds. (Try the following test entries: 5, 61, 85, 3600, 3601.)
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

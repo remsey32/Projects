@@ -8,9 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: YinYang
  * 
- * If you are into esoteric science and philosophy you may have encountered the
- * YinYang symbol. Write a little a graphics program that draws the YinYang
- * symbol. Hint: the GArc class is helpful.
+ * Draw the YinYang Symbol.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

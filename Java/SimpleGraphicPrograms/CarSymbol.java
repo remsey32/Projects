@@ -8,10 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: CarSymbol
  * 
- * For your favorite car, write a graphics program that draws the symbol of that
- * car. If that one would be to complicated, pick the symbol for your
- * next-to-favorite car. You will get extra credit, if it happens to be a German
- * car manufacturer.
+ * Draw a Car Symbol.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

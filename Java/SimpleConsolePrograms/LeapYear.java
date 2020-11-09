@@ -5,8 +5,7 @@ import acm.program.ConsoleProgram;
  * 
  * Console: LeapYear
  * 
- * Ask the user to enter a year and find out if a give year is a leap year.
- * Simply use the method provided. Try to understand how it works.
+ * Nach der eingabe eines beliebigen Jahres wird berechnet, ob es sich um ein Schaltjahr handelt.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

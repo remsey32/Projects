@@ -8,9 +8,7 @@ import acm.program.GraphicsProgram;
  * 
  * Graphics: Smiley
  * 
- * Write a simple GraphicsProgram that uses GRect, GOval and GLine, maybe also
- * GArc. Use setFilled(), setColor() and setFillColor(). Draw a â€™Smileyâ€™
- * that includes two eyes, a nose and a mouth.
+ * Draw a simple GraphicsProgram that uses GRect, GOval, GLine and also GArc.
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy

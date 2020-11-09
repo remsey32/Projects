@@ -6,7 +6,7 @@ import acm.program.ConsoleProgram;
  * Console: Money
  * 
  * A Console program that takes an amount in cents, and outputs it in euros and
- * cents. Test it with the following entries: 120, 90, 100, 102, 002.
+ * cents. (Test it with the following entries: 120, 90, 100, 102, 002.)
  * 
  * @see http://www.VariationenZumThema.de/
  * @author Sven Remy
