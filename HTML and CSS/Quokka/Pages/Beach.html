@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bilder</title>
+    <meta charset="utf-8">
+    <link rel="StyleSheet" type=text/css href="../Pages/StyleSheet.css"/>
+    <style>
+        body {background-image: url(../Bilder/background.jpg); background-size: cover}
+
+/* Style the header */
+header {
+  background-color: bisque;
+  padding: 1px;
+  text-align: center;
+  font-size: 35pt;
+  color: forestgreen;
+}
+
+/* Container for flexboxes */
+section {
+  display: flex;
+  display: flex;
+}
+
+/* Style the left Box */
+nav {
+  flex: 200px;
+  background-color: beige;
+  padding: 20px;
+}
+
+/* Style the left Box */
+article {
+  flex: 3;
+  background-color: burlywood;
+  padding: 10px;
+}
+
+/* Style the footer */
+footer {
+  background-color: bisque;
+  padding: 10px;
+  text-align: center;
+    font-size: 20pt;
+  color: forestgreen;
+}
+    </style>
+</head>
+<body>
+    <ul>
+        <li><a href="../../6_Official_Quokka_Webpage_(Home).html">HOME</a></li>
+        <li><a href="Where.html">WHERE</a></li>
+        <li><a href="Food.html">FOOD</a></li>
+        <li><a href="Beach.html">BEACH</a></li>
+    </ul>
+    
+    <h1 class="amatic">Mit dem glücklichtsen Tier der Welt das Wetter genießen...</h1>
+    
+    <img src="../Bilder/Quokka_Baby.jpg" title="Quokka mit Baby" height="500">
+    <img src="../Bilder/Freundliches_Quokka.jpg" title="Ein freundliches Quokka" height="500">
+    <img src="../Bilder/Quokka_Strand.jpg" title="Beach Party" height="500"><br><br>
+    
+    <header>
+  <h2>Q&amp;A</h2>
+</header>
+
+<section>
+  <nav>
+      <h1>Questions</h1>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu eros non est mattis cursus eget vitae libero. Donec non sollicitudin turpis. Phasellus vel pulvinar ligula. Nulla facilisi.
+  </nav>
+  
+  <article>
+    <h1>Answers</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc eu eros non est mattis cursus eget vitae libero. Donec non sollicitudin turpis. Phasellus vel pulvinar ligula. Nulla facilisi. Fusce sed nisl id leo eleifend sagittis eget et nunc. Morbi aliquam facilisis lectus, quis interdum leo elementum lobortis. Duis sit amet tincidunt libero, vel iaculis libero. Aenean eu sollicitudin ipsum.</p>
+  </article>
+</section>
+
+<footer>
+  <p>Wurde deine Frage nicht beantwortet... dann scroll runter und stelle sie uns doch selbst</p>
+</footer>
+    
+    <div>
+    <form action="http://schorsch.efi.fh-nuernberg.de/cgi/test-comment">
+        <label for="email">E-Mail:</label><br>
+        <input type="email" id="email" name="email" value="max.mustermann@...">
+        
+        <label for="importance">Wichtigkeit:</label>
+        <select id="importance" name="importance">
+            <option value="important">Megawichtig</option>
+            <option value="not important">Irrelevant</option>
+        </select><br><br>
+        
+        <textarea name="comment" rows="10" cols="30">Stelle eine Frage...</textarea><br><br>
+        <input type="submit" value="Senden">
+    </form>
+    </div>
+    
+    <div>
+    <p>Coll, aber was ist nochmal ein
+    <a href="../../6_Official_Quokka_Webpage_(Home).html">Quokka</a>
+        ?
+    </p>
+    </div>
+</body>
+</html>

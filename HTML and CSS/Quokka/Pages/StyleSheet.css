@@ -1,0 +1,42 @@
+h2,h3,h4,h5,h6 {color: forestgreen; font-family: fantasy}
+p {font-family: fantasy}
+a:hover {color: forestgreen}
+div {background-color: aliceblue; padding: 5px; border: 3px solid black; margin: 20px}
+ul {font-family: fantasy}
+img {border: 5px solid darkcyan}
+iframe {border: 15px solid darkcyan; margin: 20px}
+
+@font-face {
+  font-family: "Amatic-Bold";
+  src: url("../amatic/Amatic-Bold.ttf");
+}
+.amatic {
+    font-family: "Amatic-Bold";
+    font-size: 35pt;
+}
+
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: black;
+        top: 0;
+        width: 100%;
+}
+        
+li {
+        display: inline-block;
+}
+        
+li a {
+        display: inline-block;
+        color: antiquewhite;
+        text-align: center;
+        padding: 20px 40px;
+        text-decoration: none;
+}
+        
+li a:hover:not(.active) {
+        background-color: antiquewhite;
+}
